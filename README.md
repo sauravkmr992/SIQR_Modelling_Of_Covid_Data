@@ -4,7 +4,7 @@ To understand timely evolution of the Covid19 in India from the onset of it, SIQ
 
 * `covid.csv` contains the data used in the modelling project.
 * `SIQR_Modelling.ipynb` has detailed comments added for clarity of the process.
-* Please make sure you have all the librabries that are mentioned in the requirements.txt file.
+* Please make sure you have all the librabries that are mentioned in the `requirements.txt` file.
 * Steps for running the `SIQR_app.py` file has been written below 
 
 ## Running Streamlit App
